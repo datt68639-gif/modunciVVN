@@ -4,12 +4,11 @@
     "unitType": "Sword",
     "replaces": "Infantry",
     "uniqueTo": "Đế Chế Việt Nam New",
+    "iconAtlas": "SieuBinhChung",
     "movement": 4,
-    "strength": 150,
-   "uniques": [
-  "Heals [15] HP when resting",
-  "Can move after attacking"
-]
-    "requiredTech": "Replaceable Parts"
+    "strength": 120,
+    "cost": 150,
+    "uniques": ["Heals [15] HP when resting", "Can move after attacking"],
+    "promotions": ["Shock I"]
   }
 ]
