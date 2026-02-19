@@ -7,9 +7,9 @@
     "movement": 4,
     "strength": 150,
     "uniques": [
-      "Heals [15] HP when resting", 
-      "Can move after attacking"
-    ],
+  "Heals [15] HP when resting", 
+  "Can move after attacking"
+]
     "requiredTech": "Replaceable Parts"
   }
 ]
