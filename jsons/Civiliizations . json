@@ -1,11 +1,10 @@
-
 [
   {
     "name": "Đế Chế Việt Nam New",
-    "adjectives": ["Việt Nam"],
-    "startBias": ["Coast"],
-    "uniqueUnits": ["Siêu Binh Chủng"],
-    "uniques": ["[+5 Gold, +2 Culture] from [City Center] tiles"],
-    "cities": ["Hà Nội", "Sài Gòn", "Đà Nẵng", "Huế"]
+    "leaderName": "Quang Trung",
+    "adjective": ["Việt"],
+    "startInto": ["Sailing"],
+    "cities": ["Hà Nội", "Sài Gòn", "Đà Nẵng", "Huế"],
+    "uniqueUnits": ["Siêu Binh Chủng"]
   }
 ]
