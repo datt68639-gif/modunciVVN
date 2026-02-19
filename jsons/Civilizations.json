@@ -2,10 +2,10 @@
   {
     "name": "Đế Chế Việt Nam New",
     "leaderName": "Quang Trung",
-    "iconAtlas": "icon",
     "adjective": ["Việt"],
     "startInto": ["Sailing"],
-    "uniqueUnits": ["13A"],
-    "cities": ["Hà Nội", "Sài Gòn", "Đà Nẵng","Thanh Hoá"]
+    "iconAtlas": "icon",
+    "cities": ["Hà Nội", "Sài Gòn", "Đà Nẵng", "Huế"],
+    "uniqueUnits": ["Siêu Binh Chủng"]
   }
 ]
