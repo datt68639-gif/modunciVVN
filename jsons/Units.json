@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Siêu Binh Chủng",
+    "unitType": "Sword",
+    "replaces": "Infantry",
+    "movement": 4,
+    "strength": 150,
+    "uniques": ["Heals [15] HP extra per turn", "Can move after attacking"]
+  }
+]
