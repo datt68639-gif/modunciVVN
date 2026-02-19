@@ -3,8 +3,13 @@
     "name": "Siêu Binh Chủng",
     "unitType": "Sword",
     "replaces": "Infantry",
+    "uniqueTo": "Đế Chế Việt Nam New",
     "movement": 4,
     "strength": 150,
-    "uniques": ["Heals [15] HP extra per turn", "Can move after attacking"]
+    "uniques": [
+      "Heals [15] HP when resting", 
+      "Can move after attacking"
+    ],
+    "requiredTech": "Replaceable Parts"
   }
 ]
