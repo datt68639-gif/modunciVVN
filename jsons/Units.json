@@ -6,8 +6,8 @@
     "uniqueTo": "Đế Chế Việt Nam New",
     "movement": 4,
     "strength": 150,
-    "uniques": [
-  "Heals [15] HP when resting", 
+   "uniques": [
+  "Heals [15] HP when resting",
   "Can move after attacking"
 ]
     "requiredTech": "Replaceable Parts"
